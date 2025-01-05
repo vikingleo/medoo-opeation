@@ -1,0 +1,13 @@
+{
+  "name": "vkleo/medoo",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin vkleo/medoo",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Vkleo\\Medoo\\": "src"
+    }
+  }
+}

@@ -6,7 +6,7 @@ use Exception;
 use Medoo\Medoo;
 use support\Config;
 
-class MdeooDB
+class MedooDb
 {
     /**
      * 单例实例
